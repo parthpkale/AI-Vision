@@ -21,7 +21,11 @@ Install the required packages using `pip`:
 
 ```bash
 pip install opencv-python
+```
+```bash
 pip install matplotlib
+```
+```bash
 pip install numpy
 ```
 
