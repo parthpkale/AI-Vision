@@ -15,7 +15,7 @@ Before running the project, make sure you have the following dependencies instal
 - Python 3.x
 - OpenCV (for image and video processing)
 - Matplotlib (for image visualization)
-- A pre-trained model file (`frozen_inference_graph.pb` and `ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt`)
+- A pre-trained model file (`frozen_inference_graph.pb` and `ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt`) -> Both are provided in Github file.
 
 Install the required packages using `pip`:
 
