@@ -4,10 +4,10 @@
 This project leverages OpenCV and a pre-trained deep learning model to recognize and classify objects in images, videos, and live webcam feeds. The model used in this project is based on **SSD MobileNet V3**, which is trained on the **COCO dataset**—a large-scale dataset with 80 common object classes. The project allows for object detection and displays the detected objects with bounding boxes and labels.
 
 ## Features
-- **Image-based Object Detection**: Detect objects in static images.
-- **Video-based Object Detection**: Detect objects in video files.
-- **Live Webcam Object Detection**: Detect objects using a connected webcam.
-- **Real-time Object Classification**: Using a pre-trained model to classify detected objects in real time.
+- **Image-based Object Detection:** Detect objects in static images.
+- **Video-based Object Detection:** Detect objects in video files.
+- **Live Webcam Object Detection:** Detect objects using a connected webcam.
+- **Real-time Object Classification:** Using a pre-trained model to classify detected objects in real time.
 
 ## Prerequisites
 Before running the project, make sure you have the following dependencies installed:
@@ -15,7 +15,7 @@ Before running the project, make sure you have the following dependencies instal
 - Python 3.x
 - OpenCV (for image and video processing)
 - Matplotlib (for image visualization)
-- A pre-trained model file (`frozen_inference_graph.pb` and `ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt`) -> Both are provided in Github file.
+- A pre-trained model file (`frozen_inference_graph.pb` and `ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt`) -> Both are provided above.
 
 Install the required packages using `pip`:
 
