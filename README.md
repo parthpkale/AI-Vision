@@ -20,7 +20,9 @@ Before running the project, make sure you have the following dependencies instal
 Install the required packages using `pip`:
 
 ```bash
-pip install opencv-python opencv-python-headless matplotlib numpy
+pip install opencv-python
+pip install matplotlib
+pip install numpy
 ```
 
 ## Files & Configuration
